@@ -1,12 +1,6 @@
-# Bybit Rule-Set for Shadowrocket (.list)
-# 建议：将此规则集指向你要使用的地区节点（例：新加坡/台湾）
-
-# 主要域名（后缀匹配，含所有子域）
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bybit-exchange.com
-
-# 关键词（兜底，匹配到含 bybit 的域名）
 DOMAIN-KEYWORD,bybit
